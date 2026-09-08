@@ -3,7 +3,7 @@ public class WhoIsTheGreatestNumber {
 
     public static void main(String[] args) {
         
-                int num1 = 25;
+        int num1 = 25;
         int num2 = 87;
         int num3 = 78;
 
@@ -15,6 +15,10 @@ public class WhoIsTheGreatestNumber {
         }
         else {
             System.out.println("The Greatest Number is : " + num3);
+            
+                
+            
+            
 
 }
         
