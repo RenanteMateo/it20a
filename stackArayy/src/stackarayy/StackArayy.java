@@ -17,7 +17,7 @@ public class StackArray{
         
     }
     public static void main(String[] args) {
-        StackArray stack = new StackArray1(5);
+        StackArray stack = new StackArray(5);
         
         stack.push(10);
         stack.push(20);
